@@ -38,7 +38,7 @@ VIT ProjectMate is a web-based project portal designed specifically for VIT Univ
 
 **1. Clone the repository**
 
-- git clone https://github.com/aarushichaddha/VIT_ProjectMate/tree/master.git
+- git clone https://github.com/aarushichaddha/VIT_ProjectMate.git
 cd VIT_ProjectMate
 
 **2. Install dependencies**
