@@ -36,26 +36,27 @@ VIT ProjectMate is a web-based project portal designed specifically for VIT Univ
 
 # Installation
 
-- **1. Clone the repository**
+**1. Clone the repository**
 
-git clone https://github.com/your-org/vit-projectmate.git
-cd vit-projectmate
+- git clone https://github.com/aarushichaddha/VIT_ProjectMate/tree/master.git
+cd VIT_ProjectMate
 
-- **2. Install dependencies**
+**2. Install dependencies**
 
-npm install
+- npm install
 
-- **3. Configure environment variables**
+**3. Configure environment variables**
 
-Create a .env file for MongoDB URI, session secrets, etc.
+- Create a .env file for MongoDB URI, session secrets, etc.
 
-- **4. Run MongoDB**
+**4. Run MongoDB**
 
-Ensure MongoDB is installed and running on your system (or use a cloud MongoDB Atlas cluster).
+- Ensure MongoDB is installed and running on your system (or use a cloud MongoDB Atlas cluster).
 
-- **5. Start the server**
+**5. Start the server**
 
-npm start
+- npm start
+  
 The application will run on http://localhost:4000 by default.
 
 # Usage
