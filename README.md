@@ -73,8 +73,6 @@ The application will run on http://localhost:4000 by default.
 
 # Screenshots
 
-
-
 # Architecture
 
 - MVC Pattern: The application is modularized into Model-View-Controller layers for maintainability.
