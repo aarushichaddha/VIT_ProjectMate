@@ -36,7 +36,7 @@ app.use(methodOverride("_method"));
 app.set("view engine","ejs");
 
 
-mongoose.connect("mongodb+srv://gargi23bce10655_db_user:oPSI5HXkOSXelXkQ@cluster0.0vvqasc.mongodb.net/Cluster0?retryWrites=true&w=majority&appName=Cluster0")
+mongoose.connect("mongodb+srv://aarushichaddha0209_db_user:0KjNT0sz2jpWVq0q@cluster0.bscpwgy.mongodb.net/VIT_ProjectMate?retryWrites=true&w=majority&appName=Cluster0")
 .then(() => console.log("MongoDB Connected"))
   .catch(err => console.error(err));
 
